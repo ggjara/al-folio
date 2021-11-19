@@ -2,20 +2,24 @@
 layout: about
 title: about
 permalink: /
-description: <a href ="mailto:gjara@hks.harvard.edu">gjara@hks.harvard.edu</a>, Harvard University 
+description: MPA Candidate & <a href="https://cpl.hks.harvard.edu/gleitsman-leadership-fellowship">Gleitsman</a> Leadership Fellow, Harvard University
 
 profile:
   align: right
   image: gj_profpic.jpg
-  address: <p>Cambridge, Massachussetts</p>
+  address: 
+    <p>gjara@hks.harvard.edu</p>
+    <p>gonzalojarasaba@gmail.com</p>
+    <p> +1 (617) 852-5092</p>
+    <p>Cambridge, Massachussetts</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hola, estoy estudiando. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Gonzalo, I'm originally from Viña del Mar, Chile, and I am interested in the intersection between data, public policy, and digital government. I'm currently studying a Master in Public Administration at Harvard University. I graduated as an engineer with a mayor in computer science from Pontificia Universidad Católica de Chile in 2016.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to Harvard, I taught maths to high school students as part of _Enseña Chile_ (Teach for America network) for two years (2017-2018), and then went to work in the intersection between data and policy, in the Ministry of Education (2019) and Ministry of Health (2020-2021). Last year, I took a one-year leave of absence to go back to Chile and help in the COVID-19 response.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time I love to run, play piano -especially improvising blues with more people- and try new food.
