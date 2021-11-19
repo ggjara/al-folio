@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. <a href ="mailto:gjara@hks.harvard.edu">gjara@hks.harvard.edu</a>. Contacts. Moto. Etc.
+description: <a href ="mailto:gjara@hks.harvard.edu">gjara@hks.harvard.edu</a>, Harvard University 
 
 profile:
   align: right
   image: gj_profpic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Cambridge, Massachussetts</p>
+  address: <p>Cambridge, Massachussetts</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
