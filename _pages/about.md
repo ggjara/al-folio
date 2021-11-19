@@ -8,9 +8,9 @@ profile:
   align: right
   image: gj_profpic.jpg
   address: 
-    <p>gjara@hks.harvard.edu</p>
-    <p> +1 (617) 852-5092</p>
-    <p>Cambridge, Massachussetts</p>
+    <p>gjara@hks.harvard.edu</br>
+    +1 (617) 852-5092</br>
+    Cambridge, Massachussetts</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
