@@ -9,7 +9,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
 [![support](https://img.shields.io/badge/support-Ko--fi-yellow.svg)](https://ko-fi.com/alshedivat)
 
-A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
+
+Probando simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
@@ -354,7 +355,7 @@ To enable this functionality you will need to set `serve_og_meta` to `true` in y
 Once you have done so, all your site's pages will include Open Graph data in the HTML head element.
 
 You will then need to configure what image to display in your site's social media previews.
-This can be configured on a per-page basis, by setting the `og_image` page variable.
+This can https://github.com/ggjara/al-folio.gitbe configured on a per-page basis, by setting the `og_image` page variable.
 If for an individual page this variable is not set, then the theme will fall back to a site-wide `og_image` variable, configurable in your `_config.yml`.
 In both the page-specific and site-wide cases, the `og_image` variable needs to hold the URL for the image you wish to display in social media previews.
 
@@ -369,7 +370,8 @@ Contributions to al-folio are very welcome!
 Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
 
 If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
-For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+
+or more complex issues/bugs or feature requests, please open an issue using the appropriate template.
 
 
 ## License
@@ -377,4 +379,8 @@ For more complex issues/bugs or feature requests, please open an issue using the
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
+ear
+:w
+:Q
+:q
+
