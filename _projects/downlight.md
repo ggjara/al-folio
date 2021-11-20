@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Colab UC
-description: Webpage and content
-img: assets/img/12.jpg
-importance: 1
-category: work
+title: Downlight
+description: Web development & Ecommerce
+img: assets/img/projects/downlight.png
+redirect: https://downlight.cl
+importance: 2
+category: web development
 ---
 
 Every project has a beautiful feature showcase page.

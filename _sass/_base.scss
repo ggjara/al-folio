@@ -65,6 +65,7 @@ blockquote {
     p {
       display: inline-block;
       margin: 0;
+      font-size: 0.875rem;
     }
   }
 }
@@ -212,7 +213,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 0.2rem;
+    font-size: 1.5rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -272,7 +273,7 @@ footer.sticky-bottom {
 
 .post-list {
   margin: 0;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   padding: 0;
   li {
     border-bottom: 1px solid var(--global-divider-color);
