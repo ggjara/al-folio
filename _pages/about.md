@@ -10,7 +10,7 @@ profile:
   address: 
     <p>gjara@hks.harvard.edu<br>
     +1 (617) 852-5092<br>
-    Cambridge, Massachussetts</p>
+    Cambridge, MA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
