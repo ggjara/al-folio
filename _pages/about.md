@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Hola! My name is Gonzalo, I'm originally from Viña del Mar, Chile. I am interested in the intersection between data science and public policy. I'm currently finishing a Master in Public Administration at [Harvard University](https://hks.harvard.edu), and I'm a Gleitsman Leadership Fellow at the [Center of Public Leadership](https://cpl.hks.harvard.edu). I'm also a Research Assistant for Professor [Dan Levy](https://www.hks.harvard.edu/faculty/dan-levy). I graduated as an engineer with a major in computer science from Pontificia Universidad Católica de Chile in 2016.
