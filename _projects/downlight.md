@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downlight
-description: Web development & Ecommerce
+description: (2016) Web development & Ecommerce
 img: assets/img/projects/downlight.png
 redirect: https://downlight.cl
 importance: 2

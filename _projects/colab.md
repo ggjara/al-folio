@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colab UC
-description: Web development & content
+description: (2016) Web development & content
 img: assets/img/projects/colab.png
 importance: 1
 category: web development
