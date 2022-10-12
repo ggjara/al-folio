@@ -6,7 +6,7 @@ title: COVID-19 Dashboard Demo
 years: [2021]
 nav: false
 ---
-Gonzalo Jara's application for the [PhD Program in Social & Engineering Systems](https://idss.mit.edu/academics/ses_doc/) at [IDSS](https://idss.mit.edu)
+Dashboard created by Gonzalo during his year working in the COVID-19 response at the Chile's Ministry of Health.
 
 <div class="embed-responsive embed-responsive-16by9">
    <iframe class="embed-responsive-item"  
