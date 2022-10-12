@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: MPA Candidate & Gleitsman Leadership Fellow, Harvard University
+description: MPA & Gleitsman Leadership Fellow, Harvard University | Engineer, Universidad Católica de Chile
 
 profile:
   align: right
