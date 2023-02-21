@@ -6,7 +6,7 @@ title: COVID-19 Dashboard Demo
 years: [2021]
 nav: false
 ---
-Dashboard created by Gonzalo during his year working in the COVID-19 response at the Chile's Ministry of Health.
+This is the Dashboard that I created in 2021/2022 when I was working on Chile's COVID-19 response at the Ministry of Health.
 
 The following video is a demo.
 
@@ -20,4 +20,4 @@ The following video is a demo.
  
  
 
-Here you can find the [public version](https://public.tableau.com/app/profile/jos.tom.s.marquinez7132/viz/DashboardCOVIDEPI/EPI)
+Here you can find the [public version of the dashboard.](https://public.tableau.com/app/profile/jos.tom.s.marquinez7132/viz/DashboardCOVIDEPI/EPI)
