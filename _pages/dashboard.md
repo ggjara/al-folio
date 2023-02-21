@@ -8,9 +8,16 @@ nav: false
 ---
 Dashboard created by Gonzalo during his year working in the COVID-19 response at the Chile's Ministry of Health.
 
-<div class="embed-responsive embed-responsive-16by9">
+The following video is a demo.
+
+<div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 20px;">
    <iframe class="embed-responsive-item"  
    src="https://www.youtube.com/embed/HT3J3kyEBTQ" width=150px 
    height=100px allowfullscreen>
 </iframe>
 </div> 
+
+ 
+ 
+
+Here you can find the [public version](https://public.tableau.com/app/profile/jos.tom.s.marquinez7132/viz/DashboardCOVIDEPI/EPI)

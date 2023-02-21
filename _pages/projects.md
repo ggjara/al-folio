@@ -3,8 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: A collection of some projects
-nav: false
-display_categories: [web development, organizations]
+nav: true
+display_categories: [data visualization, web development]
 horizontal: false
 ---
 <div class="projects">
