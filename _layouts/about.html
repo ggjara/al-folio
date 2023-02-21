@@ -12,6 +12,7 @@ layout: default
   </header>
 
   <article>
+    <div class="main--home">
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
       {% if page.profile.image %}
@@ -31,6 +32,7 @@ layout: default
     <div class="clearfix">
       {{ content }}
     </div>
+  </div>
 
     <!-- {% if page.news %}
       {% include news.html %}
