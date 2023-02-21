@@ -5,5 +5,5 @@ description: Chile's official dashboard for COVID-19. It tracks cases, positivit
 img: assets/img/projects/covid-viz.jpg
 #importance: 1
 category: data visualization
-redirect: https://gonzalojara/dashboard
+redirect: https://gonzalojara.com/dashboard
 ---
