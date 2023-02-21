@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-_Hola!_  My name is Gonzalo, I'm originally from Chile, and I am interested in the intersection between data and public policy.  I'm currently CTO of [DFundamental](https://dfundamental.com), a data science consulting firm, and a Research Fellow at [EPoD](https://epod.cid.harvard.edu), the center of Evidence for Policy Design at Harvard Kennedy School.
+_Hola!_  My name is Gonzalo, I'm originally from Chile, and I am interested in the intersection between data science and public policy.  I'm currently CTO of [DFundamental](https://dfundamental.com), a data consulting firm, and a Research Fellow at [EPoD](https://epod.cid.harvard.edu), the center of Evidence for Policy Design at Harvard Kennedy School.
 
 Last year, I graduated from the Master in Public Administration at Harvard, where I was also a [Gleitsman Leadership Fellow](https://cpl.hks.harvard.edu/gleitsman-leadership-fellowship), and a Research Assistant to [Dan Levy](https://www.hks.harvard.edu/faculty/dan-levy).
 
