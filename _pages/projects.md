@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A collection of some projects
 nav: true
-display_categories: [data visualization, web development]
+display_categories: [data integration & viz, web development, documentation]
 horizontal: false
 ---
 <div class="projects">
