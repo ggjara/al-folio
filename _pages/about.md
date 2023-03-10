@@ -6,7 +6,7 @@ description: MPA & Gleitsman Leadership Fellow, Harvard University<br />Engineer
 
 profile:
   align: right
-  image: gj_profpic.jpg
+  image: gonzalo.jpeg
   address: 
     <p>gjara@hks.harvard.edu<br>
     +1 (617) 852-5092<br>
