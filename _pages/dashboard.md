@@ -6,7 +6,11 @@ title: COVID-19 Dashboard Demo
 years: [2021]
 nav: false
 ---
-This is demo of the Dashboard that I created in 2021/2022 when I was working on Chile's COVID-19 response at the Ministry of Health.
+In 2021/2022, while serving as an Advisor to the Minister of Health at the Chilean Ministry of Health, I developed a comprehensive COVID-19 Dashboard to assist in the country's response to the pandemic.
+
+The application features a wealth of data on all 346 Chilean communes, encompassing information on COVID-19 cases, testing, hospital and ICU admissions, fatalities, and vaccination rates.
+
+This vital tool plays a significant role in informing crucial decisions made by the President, ministers, and regional departments, impacting the lives of over 19 million Chilean citizens. By providing essential data, the Dashboard aids in determining effective vaccine distribution and implementing quarantine measures to ensure public health and safety.
 
 <div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 20px;">
    <iframe class="embed-responsive-item"  
