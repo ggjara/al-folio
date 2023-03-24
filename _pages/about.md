@@ -24,4 +24,4 @@ Last year, I graduated from the Master in Public Administration at Harvard, wher
 
 Before my master, I taught maths to high school students as part of [Enseña Chile (Teach for All)](https://ensenachile.cl) (2017-2018), and then worked as data scientist at the Ministry of Education (2019). In 2021 I took a leave of absence to work in Chile's COVID-19 response. There, I led a data science team and worked alongside academia to create tools to improve data-driven decision making of national authorities, including the Minister of Health and the President.
 
-I love running :running_man: and playing piano :musical_keyboard:, especially improvising blues with friends. I am currently living in Cambridge with my partner.
+I love running :running_man: and playing piano :musical_keyboard:, especially improvising blues with friends.
