@@ -8,7 +8,7 @@ profile:
   align: right
   image: gonzalo.jpeg
   address: 
-    <p>gjara@hks.harvard.edu<br>
+    <p>gonzalojarasaba@gmail.com<br>
     +1 (617) 852-5092<br>
     Cambridge, MA</p>
 
