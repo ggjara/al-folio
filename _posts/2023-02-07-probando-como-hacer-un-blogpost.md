@@ -1,22 +1,38 @@
 ---
-title: Probando como hacer un blogpost
+title: Top 10
 layout: post
-date: '2023-02-07 11:45:05'
+date: '2023-07-04 11:45:05'
 ---
+# My OS Tech Stack
 
-Probando
+## Outline
+1. He probado aplicaciones por mucho tiempo
+2. Escucho podcasts, Leo reviews, y converso muy seguido con amigos, especialmente con Dan.
+3. Cuando mis amigos me preguntan sobre aplicaciones puedo estar hablando por horas.
+4. Por eso, decidí tomar el desafío de seleccionar solo 10 aplicaciones que bajo inmediatamente en nuevo computador y las cuales uso (casi) todos los días.
+5. La lista la divido en 5 categorías: Organización, Facilitar el trabajo, Creación de contenido, y Nice-Haves
 
-```python
-import pandas as pd
-```
+### Organization
+Para mi la más importante que uso todos los días: Spark.
+(img)
 
-```R
-df <- read.csv("path.to.csv")
-df[["prueba"]] <- 2
+(tbl)
 
-```
-
-{% highlight r %}
-df <- read.csv("path.to.csv")
-df[["prueba"]] <- 2
-{% endhighlight %}
+## Post
+**Organize my day**:
+- Fantastical
+- Todoist
+- Spark
+**Facilitate my workflow**:
+- Paste
+- Magnet
+- Cleanshot X
+**Organization and creation**:
+- Ulysses
+- Notion (as my Second-Brain, resource center)
+- Day One
+**Help me writing**:
+- Deepl
+- Gramarly
+**Nice-have**s:
+- Bartender
